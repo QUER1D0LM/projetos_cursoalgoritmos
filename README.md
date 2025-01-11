@@ -9,3 +9,6 @@ Guanabara (professor).
 ---------------------------------
 cursoemvideo.com
 -----------------
+Recursos usados: Visualg (ALG.),
+Scratch (sb3.)
+================================
